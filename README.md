@@ -30,5 +30,5 @@ To develop strong Python fundamentals for real-world Data Science work, includin
 
 ---
 
-👨‍💻 Built and maintained by [Your Name](https://github.com/Dhanush086)
+👨‍💻 Built and maintained by [Dhanush086](https://github.com/Dhanush086)
 
