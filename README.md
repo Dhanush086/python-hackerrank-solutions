@@ -1,8 +1,9 @@
 # 🧠 Python Practice for Data Science
 
-This repo contains Python practice problems organized by topic — focusing on skills essential for Data Science.
+This repository contains Python practice problems organized by topic — focusing on skills essential for Data Science.
 
-This repository contains my Python solutions to selected HackerRank problems, focused on building a strong foundation for Data Science
+It includes my Python solutions to selected **HackerRank** problems, designed to build a strong foundation in clean coding, logic, and programming fundamentals.
+
 ---
 
 ## 📂 Folder Structure
