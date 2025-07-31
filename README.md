@@ -1,6 +1,7 @@
 # 🧠 Python Practice for Data Science
 
 This repo contains Python practice problems organized by topic — focusing on skills essential for Data Science.
+
 This repository contains my Python solutions to selected HackerRank problems, focused on building a strong foundation for Data Science
 ---
 
@@ -29,5 +30,5 @@ To develop strong Python fundamentals for real-world Data Science work, includin
 
 ---
 
-👨‍💻 Built and maintained by [Your Name](https://github.com/yourusername)
+👨‍💻 Built and maintained by [Your Name](https://github.com/Dhanush086)
 
